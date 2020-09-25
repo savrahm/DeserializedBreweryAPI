@@ -1,0 +1,15 @@
+C:\Users\sarah\source\repos\DeserializedBrewery\bin\Debug\netcoreapp3.1\DeserializedBrewery.exe
+C:\Users\sarah\source\repos\DeserializedBrewery\obj\Debug\netcoreapp3.1\DeserializedBrewery.csprojAssemblyReference.cache
+C:\Users\sarah\source\repos\DeserializedBrewery\obj\Debug\netcoreapp3.1\DeserializedBrewery.AssemblyInfoInputs.cache
+C:\Users\sarah\source\repos\DeserializedBrewery\obj\Debug\netcoreapp3.1\DeserializedBrewery.AssemblyInfo.cs
+C:\Users\sarah\source\repos\DeserializedBrewery\bin\Debug\netcoreapp3.1\DeserializedBrewery.deps.json
+C:\Users\sarah\source\repos\DeserializedBrewery\bin\Debug\netcoreapp3.1\DeserializedBrewery.runtimeconfig.json
+C:\Users\sarah\source\repos\DeserializedBrewery\bin\Debug\netcoreapp3.1\DeserializedBrewery.runtimeconfig.dev.json
+C:\Users\sarah\source\repos\DeserializedBrewery\bin\Debug\netcoreapp3.1\DeserializedBrewery.dll
+C:\Users\sarah\source\repos\DeserializedBrewery\bin\Debug\netcoreapp3.1\DeserializedBrewery.pdb
+C:\Users\sarah\source\repos\DeserializedBrewery\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sarah\source\repos\DeserializedBrewery\obj\Debug\netcoreapp3.1\DeserializedBrewery.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\DeserializedBrewery\obj\Debug\netcoreapp3.1\DeserializedBrewery.csproj.CopyComplete
+C:\Users\sarah\source\repos\DeserializedBrewery\obj\Debug\netcoreapp3.1\DeserializedBrewery.dll
+C:\Users\sarah\source\repos\DeserializedBrewery\obj\Debug\netcoreapp3.1\DeserializedBrewery.pdb
+C:\Users\sarah\source\repos\DeserializedBrewery\obj\Debug\netcoreapp3.1\DeserializedBrewery.genruntimeconfig.cache

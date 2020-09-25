@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aCU4D0OQAPMrV97LgeP7tkAVNz0FDUZgX3lB3zzfZbY+aZaDWTKZHf4a+1h3pE0jY47ZffJIpZkt9uPqovhCzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sarah\\source\\repos\\DeserializedBrewery\\DeserializedBrewery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sarah\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
